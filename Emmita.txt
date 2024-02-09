@@ -1,5 +1,9 @@
 Hola emmita
 feliz dia
+<<<<<<< HEAD
 como esta nenita 
 que hacen 
 
+=======
+como esta nenita
+>>>>>>> dd44671103b26313fdf3322387547b0160ccfc82
